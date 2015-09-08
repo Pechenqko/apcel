@@ -13,7 +13,7 @@
 #ifdef DEBUG
 
 #define DEBUG_FUCKN
-#define DEBUG_GETHOST
+# define DEBUG_GETHOST
 
 #include <arpa/inet.h>
 #endif
